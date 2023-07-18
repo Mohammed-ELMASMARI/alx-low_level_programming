@@ -7,6 +7,6 @@
  */
 int main(void)
 {
-    print_alphaber
-    return (0);
+print_alphaber();
+return (0);
 }
